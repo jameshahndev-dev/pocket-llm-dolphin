@@ -1,0 +1,12 @@
+# Model and runner binaries: too large for git, download separately (see docs/INSTRUCTIONS.md)
+*.gguf
+llamafile-*
+llamafile.exe
+
+# Runtime files created by the launcher scripts
+browser-profile/
+server.pid
+
+# OS junk
+.DS_Store
+Thumbs.db

@@ -4,6 +4,16 @@ Run an offline, privacy-friendly LLM chat from a USB thumb drive (or your comput
 
 No internet connection required once set up. Nothing leaves your machine.
 
+## Screenshots
+
+The chat page running locally in the browser, fully offline:
+
+![Chat home screen](docs/screenshots/chat-home.png)
+
+A response from Dolphin 2.9.4 Llama 3.1 8B (Q4_K_M) on a laptop CPU:
+
+![Chat response](docs/screenshots/chat-response.png)
+
 ## What this is
 
 This repo holds the launcher scripts and setup instructions for running [llamafile](https://github.com/Mozilla-Ocho/llamafile) with a Dolphin-based Llama 3.1 8B model, entirely offline, with a browser-based chat page.
